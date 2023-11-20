@@ -3,8 +3,8 @@
   model-viewer {
     width: auto;
     max-width: 1200px;
-    height: 500px;
-    background-color: #efefef;
+    height: 700px;
+    background-image: radial-gradient(white, orange);
     margin: 0 auto;
   }
   
@@ -58,7 +58,7 @@
   }
 
   .HotspotAnnotation img {
-    max-width: 200px;
+    max-width: 150px;
   }
 
   model-viewer::part(default-progress-bar) {

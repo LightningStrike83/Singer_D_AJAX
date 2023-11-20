@@ -24,6 +24,9 @@ Private use only; for D Singer and the professor at Fanshawe College
 4. Push to the branch: `git push origin my-new-feature`  
 5. Submit a pull request :D  
 
+## Credits  
+Spinner Icon From: https://lineicons.com/free-icons/svg-spinners/  
+
 ## License  
 
 MIT  
